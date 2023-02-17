@@ -1,0 +1,24 @@
+body {
+  background-color:#95efe9;
+}
+
+hr {
+  background-color: #000000;
+  border-style: dotted none none none;
+  border-width: 6px;
+  border-color: rgb(98, 0, 255);
+  height: 0px;
+}
+
+h1 {
+  color: rgb(255, 102, 0);
+}
+
+a {
+  color: rgb(95, 0, 173);
+}
+
+/*img{
+    border: 3px dotted #6eff14; padding:1em
+}*/
+
